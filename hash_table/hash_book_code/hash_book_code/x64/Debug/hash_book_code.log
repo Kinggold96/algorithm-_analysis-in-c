@@ -1,0 +1,5 @@
+﻿  book_hash_code.c
+  practice_hash.c
+  正在生成代码...
+practice_hash.obj : error LNK2019: 无法解析的外部符号 NextPrime，函数 main 中引用了该符号
+H:\C_code_project\Algorithm_Analysis_in_C\my_code\hash_table\hash_book_code\x64\Debug\hash_book_code.exe : fatal error LNK1120: 1 个无法解析的外部命令
