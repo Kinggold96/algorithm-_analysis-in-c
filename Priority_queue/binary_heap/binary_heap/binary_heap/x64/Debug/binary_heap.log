@@ -1,0 +1,4 @@
+﻿  binary_heap.c
+H:\C_code_project\Algorithm_Analysis_in_C\my_code\Priority_queue\binary_heap\binary_heap\binary_heap\binary_heap.c(43,46): warning C4552: ”/“: 未使用表达式结果
+H:\C_code_project\Algorithm_Analysis_in_C\my_code\Priority_queue\binary_heap\binary_heap\binary_heap\binary_heap.c(34): warning C4715: “Initialize”: 不是所有的控件路径都返回值
+  binary_heap.vcxproj -> H:\C_code_project\Algorithm_Analysis_in_C\my_code\Priority_queue\binary_heap\binary_heap\x64\Debug\binary_heap.exe
