@@ -128,9 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="book_hash_code.c" />
-    <ClCompile Include="practice_hash.c" />
+    <ClCompile Include="book_hash_quad.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="book_hashquad.h" />
     <ClInclude Include="hash_book_code.h" />
     <ClInclude Include="fatal.h" />
   </ItemGroup>

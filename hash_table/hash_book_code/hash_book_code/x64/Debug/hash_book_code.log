@@ -1,5 +1,9 @@
-﻿  book_hash_code.c
-  practice_hash.c
-  正在生成代码...
+﻿  book_hash_quad.c
+H:\C_code_project\Algorithm_Analysis_in_C\my_code\hash_table\hash_book_code\hash_book_code\book_hash_quad.c(74,24): warning C4018: “>=”: 有符号/无符号不匹配
+H:\C_code_project\Algorithm_Analysis_in_C\my_code\hash_table\hash_book_code\hash_book_code\book_hash_quad.c(104): warning C4715: “Rehash”: 不是所有的控件路径都返回值
+book_hash_quad.obj : error LNK2005: Find 已经在 book_hash_code.obj 中定义
+book_hash_quad.obj : error LNK2005: Hash 已经在 book_hash_code.obj 中定义
+book_hash_quad.obj : error LNK2005: InitializeTable 已经在 book_hash_code.obj 中定义
+book_hash_quad.obj : error LNK2005: Insert 已经在 book_hash_code.obj 中定义
 practice_hash.obj : error LNK2019: 无法解析的外部符号 NextPrime，函数 main 中引用了该符号
 H:\C_code_project\Algorithm_Analysis_in_C\my_code\hash_table\hash_book_code\x64\Debug\hash_book_code.exe : fatal error LNK1120: 1 个无法解析的外部命令

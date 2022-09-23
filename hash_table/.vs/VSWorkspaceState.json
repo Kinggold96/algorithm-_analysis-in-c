@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\hash_book_code",
+    "\\hash_book_code\\hash_book_code"
   ],
+  "SelectedNode": "\\hash_book_code\\hash_book_code\\hash_book_code.cpp",
   "PreviewInSolutionExplorer": false
 }

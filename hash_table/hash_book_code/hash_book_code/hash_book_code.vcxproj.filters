@@ -18,7 +18,7 @@
     <ClCompile Include="book_hash_code.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="practice_hash.c">
+    <ClCompile Include="book_hash_quad.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -27,6 +27,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="fatal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="book_hashquad.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
